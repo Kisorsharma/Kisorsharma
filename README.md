@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kisor Sharma and I'm a Full Stack Developer from Pokhara </h2>
+<h2 align="left">                  Hi 👋! I am Kisor Sharma. Full Stack Developer from Pokhara </h2>
 
 ###
 
