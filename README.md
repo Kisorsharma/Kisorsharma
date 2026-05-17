@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **As a Freelancer**
 
-- 🌱 I’m currently learning **next.js**
+- 🌱 I’m currently learning **node.js**
 
 - 👯 I’m looking to collaborate on **anyone who wants**
 
