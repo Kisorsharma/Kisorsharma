@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **contact@kisorsharma.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Admin/Downloads/kisor-sharma-cv%20(3).pdf](file:///C:/Users/Admin/Downloads/kisor-sharma-cv%20(3).pdf)
+- 📄 Know about my experiences [file:kisor-sharma-cv.pdf
 
 - ⚡ Fun fact **I’m a BCA student who’s already building and deploying complete web systems, just getting started!**
 
