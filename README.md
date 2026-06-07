@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [file:///C:/Users/Admin/Downloads/kisor-sharma-cv%20(3).pdf](file:///C:/Users/Admin/Downloads/kisor-sharma-cv%20(3).pdf)
 
-- ⚡ Fun fact **I’m a BCA student who’s already building and deploying complete web systems — just getting started!**
+- ⚡ Fun fact **I’m a BCA student who’s already building and deploying complete web systems, just getting started!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
